@@ -10,7 +10,7 @@ public class zadaca {
 		if(k>6) {						///Dokolku K e pogolemo od 6, se pecati K.
 			System.out.println(k);
 		}
-		if(k<6) {						///Dokolku vrednosta na K e pomala od 6, se pecati slednata poraka.
+		else {						///Dokolku vrednosta na K e pomala od 6, se pecati slednata poraka.
 			System.out.println("Vrednosta na K e pomala od 6.");
 		}
 	}
